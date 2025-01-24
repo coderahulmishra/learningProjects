@@ -1,0 +1,17 @@
+
+.container{
+    margin-bottom: 10px;
+}
+.task{
+    display: flex;
+    margin: 10px 0;
+}
+.checkbox{
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+}
+.taskBox{
+    border: 1px solid black;
+    margin: 10px 0;
+}
